@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu/Main Menu.unity
+    guid: 2dc867e73e52d014ba6c60fc74aa713e
+  - enabled: 1
+    path: Assets/Scenes/loadingManager.unity
+    guid: 1fe7fd86131258d46816fe91549ad4c3
+  - enabled: 1
+    path: Assets/Scenes/Park/Park.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: da7fda6abb4f6c341ac23975e311bc9e
+  - enabled: 1
+    path: Assets/Scenes/DinoRace.unity
+    guid: c16f0661baad2534ca438cf08ddea0f3
+  - enabled: 1
+    path: Assets/Scenes/Enyclopedia/Encyclopedia.unity
+    guid: 797ee000cea07e14e836601f225e4277
+  m_configObjects: {}
